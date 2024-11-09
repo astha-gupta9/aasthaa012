@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me aasthaa0024@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love Food
+- ⚡ Fun fact: Loves Food
 
 <!---
 aasthaa012/aasthaa012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
